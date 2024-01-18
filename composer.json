@@ -1,0 +1,14 @@
+
+{
+  "name": "tgoetzg1/SDEV328/pets",
+  "description": "Pets",
+  "authors": [
+    {
+      "name": "tobygoetz",
+      "email": "tngoetz@aol.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
